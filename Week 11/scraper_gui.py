@@ -1,3 +1,5 @@
+# week 11 scrapper 
+
 from scrapper import get_cars_data
 import tkinter as tk
 from tkinter import ttk
@@ -27,9 +29,3 @@ textarea.pack(pady=20)
 
 
 root.mainloop()
-
-
-
-
-
-
